@@ -1,0 +1,36 @@
+
+ 1. Iterating over JSON using different for loops:*/
+{
+    "name": "John Doe",
+    "age": 30,
+    "occupation": "Software Engineer",
+    "skills": ["JavaScript", "Python", "React"],
+    "address": {
+      "city": "New York",
+      "country": "USA"
+    }
+  }
+  
+a
+  const data = /* Your JSON data here */;
+  for (const key in data) {
+    console.log (key, data[key]);
+  }
+  
+
+
+
+  const skills = data.skills;
+for (const skill of skills) {
+  console.log(skill);
+}
+
+
+
+
+data.skills.forEach(skill => {
+    console.log(skill);
+  });
+
+
+  

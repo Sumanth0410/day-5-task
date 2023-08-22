@@ -1,0 +1,25 @@
+{
+    "name": "G.sumanth",
+    "contact": {
+      "email": "sumanthgopu0410@gmail.com",
+      "phone": "123-456-7890"
+      
+    },
+    "summary": "I am an  language model designed to assist and engage in conversations. My primary skills include natural language understanding and generation.",
+    
+    "education": [
+      {
+        "degree": "BBA - bachelor of business administration",
+        "school": "madras university",
+        "graduation": "2022"
+      },
+      {
+        "degree": "commerce/Computer Science",
+        "school": "sri saradha eshwary highsecondry school",
+        "graduation": "2019"
+      }
+    ],
+    "skills": ["Natural Language Processing", "JavaScript" ],
+    "languages": ["English", "Code","Tamil"]
+  }
+  
